@@ -36,7 +36,7 @@ export default {
           code: '',
           codeImgUrl:'',
           codeImgNum:'',
-          url:'http://10.3.145.39:8888'
+          url:'http://172.20.10.8:8888'
 
         }
       }
